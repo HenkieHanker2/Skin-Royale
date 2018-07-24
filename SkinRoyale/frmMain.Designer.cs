@@ -658,7 +658,7 @@
 			base.Name = "frmMain";
 			base.ShowIcon = false;
 			base.StartPosition = global::System.Windows.Forms.FormStartPosition.CenterScreen;
-			Text = "SkinRoyale | Created by KeCa, Itami & Zed.";
+			Text = "SkinRoyale | By Roshly becuase jews like credit.";
 			base.WindowBarColor = global::System.Drawing.Color.FromArgb(40, 40, 40);
 			base.FormClosing += new global::System.Windows.Forms.FormClosingEventHandler(frmMain_FormClosing);
 			base.Controls.SetChildIndex(btnCombo, 0);
