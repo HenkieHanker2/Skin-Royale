@@ -53,7 +53,7 @@ namespace SkinRoyale
         private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
         {
             Environment.Exit(0);
-            //The first thing i said when i was this was "Ummmm.... K."
+            //The first thing i said when i saw this was "Ummmm.... K."
             Application.Exit();
         }
 
