@@ -25,6 +25,11 @@ namespace SkinRoyale
 
         public frmMain()
         {
+            bool urgay = true;
+            if (urgay)
+            {
+                Environment.Exit(0);
+            }
             bool flag5 = true;
             if (flag5)
             {
